@@ -1,0 +1,2 @@
+# Whatever VCS you use, we recommend that you configure it to exclude the .sfdx folder from being added to the repository.
+.sfdx
